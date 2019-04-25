@@ -5,20 +5,20 @@
     "Contributors":[
       {
         "name":"Håvard Pedersen",
-        "url":"http://fuzzy76.net/"
+        "url":"https://fuzzy76.net/"
       }
     ],
     "Phrases":{
         "SiteTitle":"Breathe Slowly",
-        "SiteDescription":"eXHALeR web app hjelper deg med pusteøvelser ment for å redusere stress og angstfølelse ved å oppmuntre til rolige og jevne pustemønstre.",
-        "SiteNews":"Nyheter / Hjelp",
+        "SiteDescription":"eXHALeR webapp hjelper deg med pusteøvelser ment for å redusere stress og angstfølelse ved å oppmuntre til rolige og jevne pustemønstre.",
+        "SiteNews":"Nyheter / hjelp",
         "TextReady":"klar",
         "TextInhale":"pust inn",
         "TextExhale":"pust ut",
         "TextHold":"hold",
         "TextAffirmative":"ja",
         "TextNegative":"nei",
-        "SettingsDescription":"Bruk denne pusteappen som hjelp til yoga eller meditasjon. Hvis du leder av angstanfall kan du besøke <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'>ADAA</a> for mer hjelp.",
+        "SettingsDescription":"Bruk denne pusteappen som hjelp til yoga eller meditasjon. Hvis du lider av angstanfall kan du besøke <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'>ADAA</a> for mer hjelp.",
         "SettingsDefault1":"Standard",
         "SettingsDefault2":"Firkant",
         "SettingsDefault3":"Pranayama",
@@ -38,6 +38,6 @@
         "SettingsShareEmbed":"Vil du bygge inn eXHALeR appen på ditt eget nettsted? Bruk denne innbyggingskoden og del oss med dine brukere.",
         "CreatedBy":"Laget av <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
         "Donate":"Doner via Paypal",
-        "Translate":"Oversett denne siden til norsk?"
+        "Translate":"Oversette denne siden til norsk?"
     }
 }
