@@ -1,0 +1,44 @@
+{
+    "LanguageEnglish":"German",
+    "LanguageNative":"Deutsch",
+    "LanguageCode":"de",
+    "Contributors":[
+      {
+        "name":"Marc Samendinger",
+        "url":"https://github.com/msamendinger"
+      }
+    ],
+    "Phrases":{
+        "SiteTitle":"Atme langsam",
+        "SiteDescription":"Die eXHALeR web app soll dir bei deinen Atemübungen helfen und Stress und Angst reduzieren, indem sie langsame und gleichmäßige Atemübungen fördert.",
+        "SiteNews":"Neuigkeiten / Hilfe",
+        "TextReady":"bereit",
+        "TextInhale":"einatmen",
+        "TextExhale":"ausatmen",
+        "TextHold":"halten",
+        "TextAffirmative":"ja",
+        "TextNegative":"nein",
+        "SettingsDescription":"Verwende diese Atem-App zur Unterstützung deiner Yoga- und Meditationsübungen. Wenn du unter Angst- oder Panikattacken leidest, besuche bitte die <a href='https://www.angstselbsthilfe.de/' target='_blank'>Webseite der Deutschen Angst-Hilfe</a> für weitere Hilfe und Tipps.",
+        "SettingsDefault1":"Voreinstellung",
+        "SettingsDefault2":"Square",
+        "SettingsDefault3":"Pranayama",
+        "SettingsDefault4":"Ujjayi",
+        "SettingsSlider1":"Einatmen",
+        "SettingsSlider2":"Atem halten",
+        "SettingsSlider3":"Ausatmen",
+        "SettingsSlider4":"Atem halten",
+        "SettingsSectionTheme":"Theme",
+        "SettingsThemeColor":"Tag / Nacht",
+        "SettingsThemeWords":"Worte anzeigen",
+        "SettingsThemeAudio":"Ton abspielen",
+        "SettingsThemeLanguage":"Sprache wählen",
+        "SettingsThemeFullscreen":"Vollbild",
+        "SettingsSectionShare":"Teilen",
+        "SettingsShareJoin":"<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Trete uns auf Facebook bei</a> um mehr Atemübungenzu besprechen.",
+        "SettingsShareEmbed":"Want to embed the eXHALeR app into your website? Use this embed code and share it with your users.",
+        "SettingsShareEmbed":"Willst du die eXHALeR app auf deiner Webseite einbinden? Nutze diesesn Einbettungscode und teile sie mit deinen Usern.",
+        "CreatedBy":"Erstellt von <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
+        "Donate":"Spenden über Paypal",
+        "Translate":"Diese Seite in Deutsch übersetzen?"
+    }
+}
